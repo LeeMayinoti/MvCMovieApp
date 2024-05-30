@@ -45,5 +45,19 @@
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
     @await RenderSectionAsync("Scripts", required: false)
+
+
+    @if (TempData["Message"] != null)
+    {
+        <div id="successMessage" class="alert alert-success" role="alert">
+            @TempData["Message"]
+        </div>
+    }
+
+    <script>
+        setTimeout(function () {
+            $('#successMessage').fadeOut('slow');
+        }, 3000); // 3000 milliseconds = 3 seconds
+    </script>
 </body>
 </html>

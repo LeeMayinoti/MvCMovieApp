@@ -1,0 +1,329 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MovieApp.Presentation.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MovieApp.Presentation.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\wwwroot\\lib\\images\\2.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\wwwroot\\lib\\images\\3.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\wwwroot\\lib\\images\\Avengers.webp",
+      "PackagePath": "staticwebassets\\lib\\images\\Avengers.webp"
+    },
+    {
+      "Id": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\wwwroot\\lib\\images\\ManUncle.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\ManUncle.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\wwwroot\\lib\\images\\batman.webp",
+      "PackagePath": "staticwebassets\\lib\\images\\batman.webp"
+    },
+    {
+      "Id": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\wwwroot\\lib\\images\\dune.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\dune.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\wwwroot\\lib\\images\\eternals.webp",
+      "PackagePath": "staticwebassets\\lib\\images\\eternals.webp"
+    },
+    {
+      "Id": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\wwwroot\\lib\\images\\fallguy.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\fallguy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\wwwroot\\lib\\images\\gentlemen.webp",
+      "PackagePath": "staticwebassets\\lib\\images\\gentlemen.webp"
+    },
+    {
+      "Id": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\wwwroot\\lib\\images\\inglorious.webp",
+      "PackagePath": "staticwebassets\\lib\\images\\inglorious.webp"
+    },
+    {
+      "Id": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\wwwroot\\lib\\images\\interstellar.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\interstellar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\wwwroot\\lib\\images\\kuala-lumpur.png",
+      "PackagePath": "staticwebassets\\lib\\images\\kuala-lumpur.png"
+    },
+    {
+      "Id": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\wwwroot\\lib\\images\\london.png",
+      "PackagePath": "staticwebassets\\lib\\images\\london.png"
+    },
+    {
+      "Id": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\wwwroot\\lib\\images\\ministry.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\ministry.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\wwwroot\\lib\\images\\pirates.webp",
+      "PackagePath": "staticwebassets\\lib\\images\\pirates.webp"
+    },
+    {
+      "Id": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\wwwroot\\lib\\images\\transformers.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\transformers.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.MovieApp.Presentation.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.MovieApp.Presentation.props",
+      "PackagePath": "build\\MovieApp.Presentation.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.MovieApp.Presentation.props",
+      "PackagePath": "buildMultiTargeting\\MovieApp.Presentation.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.MovieApp.Presentation.props",
+      "PackagePath": "buildTransitive\\MovieApp.Presentation.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

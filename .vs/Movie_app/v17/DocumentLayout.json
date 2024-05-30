@@ -3,107 +3,123 @@
   "WorkspaceRootPath": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5028AD28-C34B-4828-B2F9-A3B1865C10C5}|Movie_app\\Movie_app.csproj|c:\\users\\lmayi\\source\\repos\\movie_app\\movie_app\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5028AD28-C34B-4828-B2F9-A3B1865C10C5}|Movie_app\\Movie_app.csproj|solutionrelative:movie_app\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0C94EFD8-2E10-451D-BE78-D558DA5F1539}|MovieApp.Infrastructure\\MovieApp.Infrastructure.csproj|c:\\users\\lmayi\\source\\repos\\movie_app\\movieapp.infrastructure\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C94EFD8-2E10-451D-BE78-D558DA5F1539}|MovieApp.Infrastructure\\MovieApp.Infrastructure.csproj|solutionrelative:movieapp.infrastructure\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5028AD28-C34B-4828-B2F9-A3B1865C10C5}|Movie_app\\Movie_app.csproj|c:\\users\\lmayi\\source\\repos\\movie_app\\movie_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{5028AD28-C34B-4828-B2F9-A3B1865C10C5}|Movie_app\\Movie_app.csproj|solutionrelative:movie_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{B4A09F79-BBD3-441B-88C5-0DA7F41796CD}|MovieApp.Presentation\\MovieApp.Presentation.csproj|c:\\users\\lmayi\\source\\repos\\movie_app\\movieapp.presentation\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A09F79-BBD3-441B-88C5-0DA7F41796CD}|MovieApp.Presentation\\MovieApp.Presentation.csproj|solutionrelative:movieapp.presentation\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5028AD28-C34B-4828-B2F9-A3B1865C10C5}|Movie_app\\Movie_app.csproj|c:\\users\\lmayi\\source\\repos\\movie_app\\movie_app\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5028AD28-C34B-4828-B2F9-A3B1865C10C5}|Movie_app\\Movie_app.csproj|solutionrelative:movie_app\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B4A09F79-BBD3-441B-88C5-0DA7F41796CD}|MovieApp.Presentation\\MovieApp.Presentation.csproj|c:\\users\\lmayi\\source\\repos\\movie_app\\movieapp.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A09F79-BBD3-441B-88C5-0DA7F41796CD}|MovieApp.Presentation\\MovieApp.Presentation.csproj|solutionrelative:movieapp.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5028AD28-C34B-4828-B2F9-A3B1865C10C5}|Movie_app\\Movie_app.csproj|c:\\users\\lmayi\\source\\repos\\movie_app\\movie_app\\views\\movies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5028AD28-C34B-4828-B2F9-A3B1865C10C5}|Movie_app\\Movie_app.csproj|solutionrelative:movie_app\\views\\movies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B4A09F79-BBD3-441B-88C5-0DA7F41796CD}|MovieApp.Presentation\\MovieApp.Presentation.csproj|c:\\users\\lmayi\\source\\repos\\movie_app\\movieapp.presentation\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4A09F79-BBD3-441B-88C5-0DA7F41796CD}|MovieApp.Presentation\\MovieApp.Presentation.csproj|solutionrelative:movieapp.presentation\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5028AD28-C34B-4828-B2F9-A3B1865C10C5}|Movie_app\\Movie_app.csproj|c:\\users\\lmayi\\source\\repos\\movie_app\\movie_app\\migrations\\20240503084834_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5028AD28-C34B-4828-B2F9-A3B1865C10C5}|Movie_app\\Movie_app.csproj|solutionrelative:movie_app\\migrations\\20240503084834_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4A09F79-BBD3-441B-88C5-0DA7F41796CD}|MovieApp.Presentation\\MovieApp.Presentation.csproj|c:\\users\\lmayi\\source\\repos\\movie_app\\movieapp.presentation\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A09F79-BBD3-441B-88C5-0DA7F41796CD}|MovieApp.Presentation\\MovieApp.Presentation.csproj|solutionrelative:movieapp.presentation\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5028AD28-C34B-4828-B2F9-A3B1865C10C5}|Movie_app\\Movie_app.csproj|c:\\users\\lmayi\\source\\repos\\movie_app\\movie_app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{5028AD28-C34B-4828-B2F9-A3B1865C10C5}|Movie_app\\Movie_app.csproj|solutionrelative:movie_app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{B4A09F79-BBD3-441B-88C5-0DA7F41796CD}|MovieApp.Presentation\\MovieApp.Presentation.csproj|c:\\users\\lmayi\\source\\repos\\movie_app\\movieapp.presentation\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4A09F79-BBD3-441B-88C5-0DA7F41796CD}|MovieApp.Presentation\\MovieApp.Presentation.csproj|solutionrelative:movieapp.presentation\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5028AD28-C34B-4828-B2F9-A3B1865C10C5}|Movie_app\\Movie_app.csproj|c:\\users\\lmayi\\source\\repos\\movie_app\\movie_app\\views\\helloworld\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5028AD28-C34B-4828-B2F9-A3B1865C10C5}|Movie_app\\Movie_app.csproj|solutionrelative:movie_app\\views\\helloworld\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B4A09F79-BBD3-441B-88C5-0DA7F41796CD}|MovieApp.Presentation\\MovieApp.Presentation.csproj|c:\\users\\lmayi\\source\\repos\\movie_app\\movieapp.presentation\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4A09F79-BBD3-441B-88C5-0DA7F41796CD}|MovieApp.Presentation\\MovieApp.Presentation.csproj|solutionrelative:movieapp.presentation\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5028AD28-C34B-4828-B2F9-A3B1865C10C5}|Movie_app\\Movie_app.csproj|c:\\users\\lmayi\\source\\repos\\movie_app\\movie_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5028AD28-C34B-4828-B2F9-A3B1865C10C5}|Movie_app\\Movie_app.csproj|solutionrelative:movie_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4A09F79-BBD3-441B-88C5-0DA7F41796CD}|MovieApp.Presentation\\MovieApp.Presentation.csproj|c:\\users\\lmayi\\source\\repos\\movie_app\\movieapp.presentation\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4A09F79-BBD3-441B-88C5-0DA7F41796CD}|MovieApp.Presentation\\MovieApp.Presentation.csproj|solutionrelative:movieapp.presentation\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5028AD28-C34B-4828-B2F9-A3B1865C10C5}|Movie_app\\Movie_app.csproj|c:\\users\\lmayi\\source\\repos\\movie_app\\movie_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{5028AD28-C34B-4828-B2F9-A3B1865C10C5}|Movie_app\\Movie_app.csproj|solutionrelative:movie_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{B4A09F79-BBD3-441B-88C5-0DA7F41796CD}|MovieApp.Presentation\\MovieApp.Presentation.csproj|c:\\users\\lmayi\\source\\repos\\movie_app\\movieapp.presentation\\viewmodel\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A09F79-BBD3-441B-88C5-0DA7F41796CD}|MovieApp.Presentation\\MovieApp.Presentation.csproj|solutionrelative:movieapp.presentation\\viewmodel\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5028AD28-C34B-4828-B2F9-A3B1865C10C5}|Movie_app\\Movie_app.csproj|c:\\users\\lmayi\\source\\repos\\movie_app\\movie_app\\views\\movies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5028AD28-C34B-4828-B2F9-A3B1865C10C5}|Movie_app\\Movie_app.csproj|solutionrelative:movie_app\\views\\movies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B4A09F79-BBD3-441B-88C5-0DA7F41796CD}|MovieApp.Presentation\\MovieApp.Presentation.csproj|c:\\users\\lmayi\\source\\repos\\movie_app\\movieapp.presentation\\viewmodel\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A09F79-BBD3-441B-88C5-0DA7F41796CD}|MovieApp.Presentation\\MovieApp.Presentation.csproj|solutionrelative:movieapp.presentation\\viewmodel\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5028AD28-C34B-4828-B2F9-A3B1865C10C5}|Movie_app\\Movie_app.csproj|c:\\users\\lmayi\\source\\repos\\movie_app\\movie_app\\views\\movies\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5028AD28-C34B-4828-B2F9-A3B1865C10C5}|Movie_app\\Movie_app.csproj|solutionrelative:movie_app\\views\\movies\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0C94EFD8-2E10-451D-BE78-D558DA5F1539}|MovieApp.Infrastructure\\MovieApp.Infrastructure.csproj|c:\\users\\lmayi\\source\\repos\\movie_app\\movieapp.infrastructure\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C94EFD8-2E10-451D-BE78-D558DA5F1539}|MovieApp.Infrastructure\\MovieApp.Infrastructure.csproj|solutionrelative:movieapp.infrastructure\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5028AD28-C34B-4828-B2F9-A3B1865C10C5}|Movie_app\\Movie_app.csproj|c:\\users\\lmayi\\source\\repos\\movie_app\\movie_app\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5028AD28-C34B-4828-B2F9-A3B1865C10C5}|Movie_app\\Movie_app.csproj|solutionrelative:movie_app\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0C94EFD8-2E10-451D-BE78-D558DA5F1539}|MovieApp.Infrastructure\\MovieApp.Infrastructure.csproj|c:\\users\\lmayi\\source\\repos\\movie_app\\movieapp.infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C94EFD8-2E10-451D-BE78-D558DA5F1539}|MovieApp.Infrastructure\\MovieApp.Infrastructure.csproj|solutionrelative:movieapp.infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5028AD28-C34B-4828-B2F9-A3B1865C10C5}|Movie_app\\Movie_app.csproj|c:\\users\\lmayi\\source\\repos\\movie_app\\movie_app\\views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5028AD28-C34B-4828-B2F9-A3B1865C10C5}|Movie_app\\Movie_app.csproj|solutionrelative:movie_app\\views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B4A09F79-BBD3-441B-88C5-0DA7F41796CD}|MovieApp.Presentation\\MovieApp.Presentation.csproj|c:\\users\\lmayi\\source\\repos\\movie_app\\movieapp.presentation\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A09F79-BBD3-441B-88C5-0DA7F41796CD}|MovieApp.Presentation\\MovieApp.Presentation.csproj|solutionrelative:movieapp.presentation\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5028AD28-C34B-4828-B2F9-A3B1865C10C5}|Movie_app\\Movie_app.csproj|c:\\users\\lmayi\\source\\repos\\movie_app\\movie_app\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{5028AD28-C34B-4828-B2F9-A3B1865C10C5}|Movie_app\\Movie_app.csproj|solutionrelative:movie_app\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{B4A09F79-BBD3-441B-88C5-0DA7F41796CD}|MovieApp.Presentation\\MovieApp.Presentation.csproj|c:\\users\\lmayi\\source\\repos\\movie_app\\movieapp.presentation\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4A09F79-BBD3-441B-88C5-0DA7F41796CD}|MovieApp.Presentation\\MovieApp.Presentation.csproj|solutionrelative:movieapp.presentation\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5028AD28-C34B-4828-B2F9-A3B1865C10C5}|Movie_app\\Movie_app.csproj|c:\\users\\lmayi\\source\\repos\\movie_app\\movie_app\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5028AD28-C34B-4828-B2F9-A3B1865C10C5}|Movie_app\\Movie_app.csproj|solutionrelative:movie_app\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4A09F79-BBD3-441B-88C5-0DA7F41796CD}|MovieApp.Presentation\\MovieApp.Presentation.csproj|c:\\users\\lmayi\\source\\repos\\movie_app\\movieapp.presentation\\views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4A09F79-BBD3-441B-88C5-0DA7F41796CD}|MovieApp.Presentation\\MovieApp.Presentation.csproj|solutionrelative:movieapp.presentation\\views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5028AD28-C34B-4828-B2F9-A3B1865C10C5}|Movie_app\\Movie_app.csproj|c:\\users\\lmayi\\source\\repos\\movie_app\\movie_app\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5028AD28-C34B-4828-B2F9-A3B1865C10C5}|Movie_app\\Movie_app.csproj|solutionrelative:movie_app\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B4A09F79-BBD3-441B-88C5-0DA7F41796CD}|MovieApp.Presentation\\MovieApp.Presentation.csproj|c:\\users\\lmayi\\source\\repos\\movie_app\\movieapp.presentation\\views\\movies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4A09F79-BBD3-441B-88C5-0DA7F41796CD}|MovieApp.Presentation\\MovieApp.Presentation.csproj|solutionrelative:movieapp.presentation\\views\\movies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5028AD28-C34B-4828-B2F9-A3B1865C10C5}|Movie_app\\Movie_app.csproj|c:\\users\\lmayi\\source\\repos\\movie_app\\movie_app\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5028AD28-C34B-4828-B2F9-A3B1865C10C5}|Movie_app\\Movie_app.csproj|solutionrelative:movie_app\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4A09F79-BBD3-441B-88C5-0DA7F41796CD}|MovieApp.Presentation\\MovieApp.Presentation.csproj|c:\\users\\lmayi\\source\\repos\\movie_app\\movieapp.presentation\\views\\movies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4A09F79-BBD3-441B-88C5-0DA7F41796CD}|MovieApp.Presentation\\MovieApp.Presentation.csproj|solutionrelative:movieapp.presentation\\views\\movies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5028AD28-C34B-4828-B2F9-A3B1865C10C5}|Movie_app\\Movie_app.csproj|c:\\users\\lmayi\\source\\repos\\movie_app\\movie_app\\controllers\\movies1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5028AD28-C34B-4828-B2F9-A3B1865C10C5}|Movie_app\\Movie_app.csproj|solutionrelative:movie_app\\controllers\\movies1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4A09F79-BBD3-441B-88C5-0DA7F41796CD}|MovieApp.Presentation\\MovieApp.Presentation.csproj|c:\\users\\lmayi\\source\\repos\\movie_app\\movieapp.presentation\\movieapp.presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B4A09F79-BBD3-441B-88C5-0DA7F41796CD}|MovieApp.Presentation\\MovieApp.Presentation.csproj|solutionrelative:movieapp.presentation\\movieapp.presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5028AD28-C34B-4828-B2F9-A3B1865C10C5}|Movie_app\\Movie_app.csproj|c:\\users\\lmayi\\source\\repos\\movie_app\\movie_app\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5028AD28-C34B-4828-B2F9-A3B1865C10C5}|Movie_app\\Movie_app.csproj|solutionrelative:movie_app\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{82ADC077-BDCB-4D8E-9D91-05C41438667D}|MovieApp.Application\\MovieApp.Application.csproj|c:\\users\\lmayi\\source\\repos\\movie_app\\movieapp.application\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82ADC077-BDCB-4D8E-9D91-05C41438667D}|MovieApp.Application\\MovieApp.Application.csproj|solutionrelative:movieapp.application\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5028AD28-C34B-4828-B2F9-A3B1865C10C5}|Movie_app\\Movie_app.csproj|c:\\users\\lmayi\\source\\repos\\movie_app\\movie_app\\migrations\\20240506105631_rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5028AD28-C34B-4828-B2F9-A3B1865C10C5}|Movie_app\\Movie_app.csproj|solutionrelative:movie_app\\migrations\\20240506105631_rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0C94EFD8-2E10-451D-BE78-D558DA5F1539}|MovieApp.Infrastructure\\MovieApp.Infrastructure.csproj|c:\\users\\lmayi\\source\\repos\\movie_app\\movieapp.infrastructure\\migrations\\20240529071945_identydbuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C94EFD8-2E10-451D-BE78-D558DA5F1539}|MovieApp.Infrastructure\\MovieApp.Infrastructure.csproj|solutionrelative:movieapp.infrastructure\\migrations\\20240529071945_identydbuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5028AD28-C34B-4828-B2F9-A3B1865C10C5}|Movie_app\\Movie_app.csproj|c:\\users\\lmayi\\source\\repos\\movie_app\\movie_app\\views\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5028AD28-C34B-4828-B2F9-A3B1865C10C5}|Movie_app\\Movie_app.csproj|solutionrelative:movie_app\\views\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{62FFAB7D-81DD-43A2-986F-E44FB19D8C80}|MovieApp.Domain\\MovieApp.Domain.csproj|c:\\users\\lmayi\\source\\repos\\movie_app\\movieapp.domain\\model\\movies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62FFAB7D-81DD-43A2-986F-E44FB19D8C80}|MovieApp.Domain\\MovieApp.Domain.csproj|solutionrelative:movieapp.domain\\model\\movies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Movie_app.Data/True/SqlTable/dbo.Movie.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+      "AbsoluteMoniker": "D:0:0:{B4A09F79-BBD3-441B-88C5-0DA7F41796CD}|MovieApp.Presentation\\MovieApp.Presentation.csproj|c:\\users\\lmayi\\source\\repos\\movie_app\\movieapp.presentation\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B4A09F79-BBD3-441B-88C5-0DA7F41796CD}|MovieApp.Presentation\\MovieApp.Presentation.csproj|solutionrelative:movieapp.presentation\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5028AD28-C34B-4828-B2F9-A3B1865C10C5}|Movie_app\\Movie_app.csproj|c:\\users\\lmayi\\source\\repos\\movie_app\\movie_app\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5028AD28-C34B-4828-B2F9-A3B1865C10C5}|Movie_app\\Movie_app.csproj|solutionrelative:movie_app\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0C94EFD8-2E10-451D-BE78-D558DA5F1539}|MovieApp.Infrastructure\\MovieApp.Infrastructure.csproj|c:\\users\\lmayi\\source\\repos\\movie_app\\movieapp.infrastructure\\movie_appcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C94EFD8-2E10-451D-BE78-D558DA5F1539}|MovieApp.Infrastructure\\MovieApp.Infrastructure.csproj|solutionrelative:movieapp.infrastructure\\movie_appcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5028AD28-C34B-4828-B2F9-A3B1865C10C5}|Movie_app\\Movie_app.csproj|c:\\users\\lmayi\\source\\repos\\movie_app\\movie_app\\controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5028AD28-C34B-4828-B2F9-A3B1865C10C5}|Movie_app\\Movie_app.csproj|solutionrelative:movie_app\\controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0C94EFD8-2E10-451D-BE78-D558DA5F1539}|MovieApp.Infrastructure\\MovieApp.Infrastructure.csproj|c:\\users\\lmayi\\source\\repos\\movie_app\\movieapp.infrastructure\\movieapp.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0C94EFD8-2E10-451D-BE78-D558DA5F1539}|MovieApp.Infrastructure\\MovieApp.Infrastructure.csproj|solutionrelative:movieapp.infrastructure\\movieapp.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5028AD28-C34B-4828-B2F9-A3B1865C10C5}|Movie_app\\Movie_app.csproj|c:\\users\\lmayi\\source\\repos\\movie_app\\movie_app\\models\\moviegenreviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5028AD28-C34B-4828-B2F9-A3B1865C10C5}|Movie_app\\Movie_app.csproj|solutionrelative:movie_app\\models\\moviegenreviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{62FFAB7D-81DD-43A2-986F-E44FB19D8C80}|MovieApp.Domain\\MovieApp.Domain.csproj|c:\\users\\lmayi\\source\\repos\\movie_app\\movieapp.domain\\movieapp.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{62FFAB7D-81DD-43A2-986F-E44FB19D8C80}|MovieApp.Domain\\MovieApp.Domain.csproj|solutionrelative:movieapp.domain\\movieapp.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5028AD28-C34B-4828-B2F9-A3B1865C10C5}|Movie_app\\Movie_app.csproj|c:\\users\\lmayi\\source\\repos\\movie_app\\movie_app\\views\\helloworld\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5028AD28-C34B-4828-B2F9-A3B1865C10C5}|Movie_app\\Movie_app.csproj|solutionrelative:movie_app\\views\\helloworld\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{82ADC077-BDCB-4D8E-9D91-05C41438667D}|MovieApp.Application\\MovieApp.Application.csproj|c:\\users\\lmayi\\source\\repos\\movie_app\\movieapp.application\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82ADC077-BDCB-4D8E-9D91-05C41438667D}|MovieApp.Application\\MovieApp.Application.csproj|solutionrelative:movieapp.application\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82ADC077-BDCB-4D8E-9D91-05C41438667D}|MovieApp.Application\\MovieApp.Application.csproj|c:\\users\\lmayi\\source\\repos\\movie_app\\movieapp.application\\moviegenreviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82ADC077-BDCB-4D8E-9D91-05C41438667D}|MovieApp.Application\\MovieApp.Application.csproj|solutionrelative:movieapp.application\\moviegenreviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82ADC077-BDCB-4D8E-9D91-05C41438667D}|MovieApp.Application\\MovieApp.Application.csproj|c:\\users\\lmayi\\source\\repos\\movie_app\\movieapp.application\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82ADC077-BDCB-4D8E-9D91-05C41438667D}|MovieApp.Application\\MovieApp.Application.csproj|solutionrelative:movieapp.application\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82ADC077-BDCB-4D8E-9D91-05C41438667D}|MovieApp.Application\\MovieApp.Application.csproj|c:\\users\\lmayi\\source\\repos\\movie_app\\movieapp.application\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82ADC077-BDCB-4D8E-9D91-05C41438667D}|MovieApp.Application\\MovieApp.Application.csproj|solutionrelative:movieapp.application\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lmayi\\Documents\\Green Internship\\MVC-Tuorial\\MVA-Introduction-to-ASPNET-MVC\\Module 7 - Introduction to Authentication\\MVCMusicStore\\MVCMusicStore\\Models\\AccountViewModels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -112,321 +128,388 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "DockedWidth": 272,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Movie.cs",
-              "DocumentMoniker": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\Movie_app\\Models\\Movie.cs",
-              "RelativeDocumentMoniker": "Movie_app\\Models\\Movie.cs",
-              "ToolTip": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\Movie_app\\Models\\Movie.cs",
-              "RelativeToolTip": "Movie_app\\Models\\Movie.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAYwBoAAAAAAAAA",
+              "DocumentIndex": 18,
+              "Title": "IMovieService.cs",
+              "DocumentMoniker": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Application\\IMovieService.cs",
+              "RelativeDocumentMoniker": "MovieApp.Application\\IMovieService.cs",
+              "ToolTip": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Application\\IMovieService.cs",
+              "RelativeToolTip": "MovieApp.Application\\IMovieService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T06:50:06.691Z",
+              "WhenOpened": "2024-05-21T07:10:55.973Z",
               "IsPinned": true
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\Movie_app\\Program.cs",
-              "RelativeDocumentMoniker": "Movie_app\\Program.cs",
-              "ToolTip": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\Movie_app\\Program.cs",
-              "RelativeToolTip": "Movie_app\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T12:19:23.033Z",
-              "IsPinned": true
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\Movie_app\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Movie_app\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\Movie_app\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Movie_app\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAE4AAAAAAAAAAAAAABwAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-07T09:13:58.773Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\Movie_app\\Views\\Movies\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Movie_app\\Views\\Movies\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\Movie_app\\Views\\Movies\\Delete.cshtml",
-              "RelativeToolTip": "Movie_app\\Views\\Movies\\Delete.cshtml",
-              "ViewState": "AQIAACAAAAAAAAAAAAAuwCkAAABGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-07T12:11:17.68Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\Movie_app\\Views\\Movies\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Movie_app\\Views\\Movies\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\Movie_app\\Views\\Movies\\Edit.cshtml",
-              "RelativeToolTip": "Movie_app\\Views\\Movies\\Edit.cshtml",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAIwCYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-07T10:53:00.46Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "bootstrap.css",
-              "DocumentMoniker": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\Movie_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-              "RelativeDocumentMoniker": "Movie_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-              "ToolTip": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\Movie_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-              "RelativeToolTip": "Movie_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-              "ViewState": "AQIAABosAAAAAAAAAAAqwB4sAABIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-05-07T08:51:02.447Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\Movie_app\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Movie_app\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\Movie_app\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Movie_app\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-02T12:40:36.208Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\Movie_app\\Views\\Movies\\Index.cshtml",
-              "RelativeDocumentMoniker": "Movie_app\\Views\\Movies\\Index.cshtml",
-              "ToolTip": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\Movie_app\\Views\\Movies\\Index.cshtml",
-              "RelativeToolTip": "Movie_app\\Views\\Movies\\Index.cshtml",
-              "ViewState": "AQIAADYAAAAAAAAAAAAAAD4AAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-03T12:09:14.868Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "bootstrap.min.css",
-              "DocumentMoniker": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\Movie_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
-              "RelativeDocumentMoniker": "Movie_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
-              "ToolTip": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\Movie_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
-              "RelativeToolTip": "Movie_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-05-07T08:37:19.978Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\Movie_app\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "Movie_app\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\Movie_app\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "Movie_app\\wwwroot\\css\\site.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-05-07T08:32:37.959Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "dbo.Movie [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Movie_app.Data/True/SqlTable/dbo.Movie.sql",
-              "ToolTip": "dbo.Movie [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-05-07T06:45:19.931Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\Movie_app\\Views\\Movies\\Details.cshtml",
-              "RelativeDocumentMoniker": "Movie_app\\Views\\Movies\\Details.cshtml",
-              "ToolTip": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\Movie_app\\Views\\Movies\\Details.cshtml",
-              "RelativeToolTip": "Movie_app\\Views\\Movies\\Details.cshtml",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAAC0AAABUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-06T21:37:48.581Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\Movie_app\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Movie_app\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\Movie_app\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Movie_app\\Views\\_ViewStart.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-02T12:48:02.506Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\Movie_app\\Views\\Movies\\Create.cshtml",
-              "RelativeDocumentMoniker": "Movie_app\\Views\\Movies\\Create.cshtml",
-              "ToolTip": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\Movie_app\\Views\\Movies\\Create.cshtml",
-              "RelativeToolTip": "Movie_app\\Views\\Movies\\Create.cshtml",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAAC8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-06T10:50:18.318Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "MovieGenreViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\Movie_app\\Models\\MovieGenreViewModel.cs",
-              "RelativeDocumentMoniker": "Movie_app\\Models\\MovieGenreViewModel.cs",
-              "ToolTip": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\Movie_app\\Models\\MovieGenreViewModel.cs",
-              "RelativeToolTip": "Movie_app\\Models\\MovieGenreViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T13:34:33.583Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "MoviesController.cs",
-              "DocumentMoniker": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\Movie_app\\Controllers\\MoviesController.cs",
-              "RelativeDocumentMoniker": "Movie_app\\Controllers\\MoviesController.cs",
-              "ToolTip": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\Movie_app\\Controllers\\MoviesController.cs",
-              "RelativeToolTip": "Movie_app\\Controllers\\MoviesController.cs",
-              "ViewState": "AQIAAC4AAAAAAAAAAAAnwDoAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T12:41:40.459Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "SeedData.cs",
-              "DocumentMoniker": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\Movie_app\\Views\\SeedData.cs",
-              "RelativeDocumentMoniker": "Movie_app\\Views\\SeedData.cs",
-              "ToolTip": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\Movie_app\\Views\\SeedData.cs",
-              "RelativeToolTip": "Movie_app\\Views\\SeedData.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T12:18:29.582Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "20240506105631_Rating.cs",
-              "DocumentMoniker": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\Movie_app\\Migrations\\20240506105631_Rating.cs",
-              "RelativeDocumentMoniker": "Movie_app\\Migrations\\20240506105631_Rating.cs",
-              "ToolTip": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\Movie_app\\Migrations\\20240506105631_Rating.cs",
-              "RelativeToolTip": "Movie_app\\Migrations\\20240506105631_Rating.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T10:56:31.345Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "HelloWorldController.cs",
-              "DocumentMoniker": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\Movie_app\\Controllers\\HelloWorldController.cs",
-              "RelativeDocumentMoniker": "Movie_app\\Controllers\\HelloWorldController.cs",
-              "ToolTip": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\Movie_app\\Controllers\\HelloWorldController.cs",
-              "RelativeToolTip": "Movie_app\\Controllers\\HelloWorldController.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBIAAAA+AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T10:49:27.28Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "20240503084834_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\Movie_app\\Migrations\\20240503084834_InitialCreate.cs",
-              "RelativeDocumentMoniker": "Movie_app\\Migrations\\20240503084834_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\Movie_app\\Migrations\\20240503084834_InitialCreate.cs",
-              "RelativeToolTip": "Movie_app\\Migrations\\20240503084834_InitialCreate.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAQwA0AAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T08:48:34.564Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\Movie_app\\appsettings.json",
-              "RelativeDocumentMoniker": "Movie_app\\appsettings.json",
-              "ToolTip": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\Movie_app\\appsettings.json",
-              "RelativeToolTip": "Movie_app\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-06T10:05:25.657Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\Movie_app\\Views\\HelloWorld\\Index.cshtml",
-              "RelativeDocumentMoniker": "Movie_app\\Views\\HelloWorld\\Index.cshtml",
-              "ToolTip": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\Movie_app\\Views\\HelloWorld\\Index.cshtml",
-              "RelativeToolTip": "Movie_app\\Views\\HelloWorld\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAkAAAA",
+              "DocumentMoniker": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\Views\\Movies\\Index.cshtml",
+              "RelativeDocumentMoniker": "MovieApp.Presentation\\Views\\Movies\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\Views\\Movies\\Index.cshtml",
+              "RelativeToolTip": "MovieApp.Presentation\\Views\\Movies\\Index.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAAsAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-02T12:35:53.662Z"
+              "WhenOpened": "2024-05-22T13:10:00.6Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Welcome.cshtml",
-              "DocumentMoniker": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\Movie_app\\Views\\HelloWorld\\Welcome.cshtml",
-              "RelativeDocumentMoniker": "Movie_app\\Views\\HelloWorld\\Welcome.cshtml",
-              "ToolTip": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\Movie_app\\Views\\HelloWorld\\Welcome.cshtml",
-              "RelativeToolTip": "Movie_app\\Views\\HelloWorld\\Welcome.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-02T13:54:33.617Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Movies1Controller.cs",
-              "DocumentMoniker": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\Movie_app\\Controllers\\Movies1Controller.cs",
-              "RelativeDocumentMoniker": "Movie_app\\Controllers\\Movies1Controller.cs",
-              "ToolTip": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\Movie_app\\Controllers\\Movies1Controller.cs",
-              "RelativeToolTip": "Movie_app\\Controllers\\Movies1Controller.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIYAAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "MovieApp.Presentation\\Program.cs",
+              "ToolTip": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\Program.cs",
+              "RelativeToolTip": "MovieApp.Presentation\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAEcAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T08:25:07.186Z"
+              "WhenOpened": "2024-05-29T09:15:41.077Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\Movie_app\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "Movie_app\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\Movie_app\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "Movie_app\\Views\\Shared\\Error.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAVAAAA",
+              "DocumentIndex": 1,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "MovieApp.Presentation\\Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "MovieApp.Presentation\\Controllers\\MoviesController.cs",
+              "ViewState": "AQIAAA4BAAAAAAAAAAAqwJEAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T07:40:07.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "MovieApp.Presentation\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "MovieApp.Presentation\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAA5wGcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T07:37:02.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MovieApp.Presentation\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MovieApp.Presentation\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-03T08:07:34.194Z"
+              "WhenOpened": "2024-05-20T08:36:29.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "MovieApp.Presentation\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "MovieApp.Presentation\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T07:41:47.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitofWork.cs",
+              "DocumentMoniker": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Infrastructure\\UnitofWork.cs",
+              "RelativeDocumentMoniker": "MovieApp.Infrastructure\\UnitofWork.cs",
+              "ToolTip": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Infrastructure\\UnitofWork.cs",
+              "RelativeToolTip": "MovieApp.Infrastructure\\UnitofWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T07:44:00.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "MovieApp.Presentation\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "MovieApp.Presentation\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T07:41:29.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\ViewModel\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "MovieApp.Presentation\\ViewModel\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\ViewModel\\RegisterViewModel.cs",
+              "RelativeToolTip": "MovieApp.Presentation\\ViewModel\\RegisterViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T07:39:48.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\ViewModel\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "MovieApp.Presentation\\ViewModel\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\ViewModel\\LoginViewModel.cs",
+              "RelativeToolTip": "MovieApp.Presentation\\ViewModel\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T07:39:30.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Infrastructure\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "MovieApp.Infrastructure\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Infrastructure\\AppDBContext.cs",
+              "RelativeToolTip": "MovieApp.Infrastructure\\AppDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T12:03:26.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MovieApp.Presentation\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MovieApp.Presentation\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T08:39:48.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MovieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Infrastructure\\MovieRepository.cs",
+              "RelativeDocumentMoniker": "MovieApp.Infrastructure\\MovieRepository.cs",
+              "ToolTip": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Infrastructure\\MovieRepository.cs",
+              "RelativeToolTip": "MovieApp.Infrastructure\\MovieRepository.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAA3wEIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T07:52:24.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MovieApp.Presentation\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MovieApp.Presentation\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T10:07:24.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "create.cshtml",
+              "DocumentMoniker": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\Views\\Movies\\create.cshtml",
+              "RelativeDocumentMoniker": "MovieApp.Presentation\\Views\\Movies\\create.cshtml",
+              "ToolTip": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\Views\\Movies\\create.cshtml",
+              "RelativeToolTip": "MovieApp.Presentation\\Views\\Movies\\create.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T12:29:15.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\Views\\Movies\\Details.cshtml",
+              "RelativeDocumentMoniker": "MovieApp.Presentation\\Views\\Movies\\Details.cshtml",
+              "ToolTip": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\Views\\Movies\\Details.cshtml",
+              "RelativeToolTip": "MovieApp.Presentation\\Views\\Movies\\Details.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAC0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T13:29:53.731Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\Movie_app\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "Movie_app\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\Movie_app\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "Movie_app\\Models\\ErrorViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAfAAAA",
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\Views\\Movies\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MovieApp.Presentation\\Views\\Movies\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\Views\\Movies\\Edit.cshtml",
+              "RelativeToolTip": "MovieApp.Presentation\\Views\\Movies\\Edit.cshtml",
+              "ViewState": "AQIAABYAAAAAAAAAAAAswCUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T13:07:50.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MovieApp.Presentation.csproj",
+              "DocumentMoniker": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\MovieApp.Presentation.csproj",
+              "RelativeDocumentMoniker": "MovieApp.Presentation\\MovieApp.Presentation.csproj",
+              "ToolTip": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\MovieApp.Presentation.csproj",
+              "RelativeToolTip": "MovieApp.Presentation\\MovieApp.Presentation.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-29T07:38:38.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20240529071945_IdentyDBUser.cs",
+              "DocumentMoniker": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Infrastructure\\Migrations\\20240529071945_IdentyDBUser.cs",
+              "RelativeDocumentMoniker": "MovieApp.Infrastructure\\Migrations\\20240529071945_IdentyDBUser.cs",
+              "ToolTip": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Infrastructure\\Migrations\\20240529071945_IdentyDBUser.cs",
+              "RelativeToolTip": "MovieApp.Infrastructure\\Migrations\\20240529071945_IdentyDBUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T08:12:20.049Z"
+              "WhenOpened": "2024-05-29T07:19:45.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Movies.cs",
+              "DocumentMoniker": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Domain\\Model\\Movies.cs",
+              "RelativeDocumentMoniker": "MovieApp.Domain\\Model\\Movies.cs",
+              "ToolTip": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Domain\\Model\\Movies.cs",
+              "RelativeToolTip": "MovieApp.Domain\\Model\\Movies.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T12:25:02.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "libman.json",
+              "DocumentMoniker": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\libman.json",
+              "RelativeDocumentMoniker": "MovieApp.Presentation\\libman.json",
+              "ToolTip": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Presentation\\libman.json",
+              "RelativeToolTip": "MovieApp.Presentation\\libman.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-20T08:44:29.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Movie_appContext.cs",
+              "DocumentMoniker": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Infrastructure\\Movie_appContext.cs",
+              "RelativeDocumentMoniker": "MovieApp.Infrastructure\\Movie_appContext.cs",
+              "ToolTip": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Infrastructure\\Movie_appContext.cs",
+              "RelativeToolTip": "MovieApp.Infrastructure\\Movie_appContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T07:38:38.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MovieApp.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Infrastructure\\MovieApp.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "MovieApp.Infrastructure\\MovieApp.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Infrastructure\\MovieApp.Infrastructure.csproj",
+              "RelativeToolTip": "MovieApp.Infrastructure\\MovieApp.Infrastructure.csproj",
+              "ViewState": "AQIAAA4AAABw51mhVF0jwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-28T11:57:28.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MovieApp.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Domain\\MovieApp.Domain.csproj",
+              "RelativeDocumentMoniker": "MovieApp.Domain\\MovieApp.Domain.csproj",
+              "ToolTip": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Domain\\MovieApp.Domain.csproj",
+              "RelativeToolTip": "MovieApp.Domain\\MovieApp.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-22T07:01:19.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MovieService.cs",
+              "DocumentMoniker": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Application\\MovieService.cs",
+              "RelativeDocumentMoniker": "MovieApp.Application\\MovieService.cs",
+              "ToolTip": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Application\\MovieService.cs",
+              "RelativeToolTip": "MovieApp.Application\\MovieService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAswBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T10:24:02.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MovieGenreViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Application\\MovieGenreViewModel.cs",
+              "RelativeDocumentMoniker": "MovieApp.Application\\MovieGenreViewModel.cs",
+              "ToolTip": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Application\\MovieGenreViewModel.cs",
+              "RelativeToolTip": "MovieApp.Application\\MovieGenreViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T08:53:10.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IUnitofWork.cs",
+              "DocumentMoniker": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Application\\IUnitofWork.cs",
+              "RelativeDocumentMoniker": "MovieApp.Application\\IUnitofWork.cs",
+              "ToolTip": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Application\\IUnitofWork.cs",
+              "RelativeToolTip": "MovieApp.Application\\IUnitofWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T07:42:00.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IMovieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Application\\IMovieRepository.cs",
+              "RelativeDocumentMoniker": "MovieApp.Application\\IMovieRepository.cs",
+              "ToolTip": "C:\\Users\\lmayi\\source\\repos\\Movie_app\\MovieApp.Application\\IMovieRepository.cs",
+              "RelativeToolTip": "MovieApp.Application\\IMovieRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:07:41.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AccountViewModels.cs",
+              "DocumentMoniker": "C:\\Users\\lmayi\\Documents\\Green Internship\\MVC-Tuorial\\MVA-Introduction-to-ASPNET-MVC\\Module 7 - Introduction to Authentication\\MVCMusicStore\\MVCMusicStore\\Models\\AccountViewModels.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Documents\\Green Internship\\MVC-Tuorial\\MVA-Introduction-to-ASPNET-MVC\\Module 7 - Introduction to Authentication\\MVCMusicStore\\MVCMusicStore\\Models\\AccountViewModels.cs",
+              "ToolTip": "C:\\Users\\lmayi\\Documents\\Green Internship\\MVC-Tuorial\\MVA-Introduction-to-ASPNET-MVC\\Module 7 - Introduction to Authentication\\MVCMusicStore\\MVCMusicStore\\Models\\AccountViewModels.cs",
+              "RelativeToolTip": "..\\..\\..\\Documents\\Green Internship\\MVC-Tuorial\\MVA-Introduction-to-ASPNET-MVC\\Module 7 - Introduction to Authentication\\MVCMusicStore\\MVCMusicStore\\Models\\AccountViewModels.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAIBpwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T09:20:23.958Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 290,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }

@@ -1,0 +1,13 @@
+C:\Users\lmayi\source\repos\Movie_app\MovieApp.Domain\bin\Debug\net6.0\MovieApp.Domain.deps.json
+C:\Users\lmayi\source\repos\Movie_app\MovieApp.Domain\bin\Debug\net6.0\MovieApp.Domain.dll
+C:\Users\lmayi\source\repos\Movie_app\MovieApp.Domain\bin\Debug\net6.0\MovieApp.Domain.pdb
+C:\Users\lmayi\source\repos\Movie_app\MovieApp.Domain\obj\Debug\net6.0\MovieApp.Domain.csproj.AssemblyReference.cache
+C:\Users\lmayi\source\repos\Movie_app\MovieApp.Domain\obj\Debug\net6.0\MovieApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lmayi\source\repos\Movie_app\MovieApp.Domain\obj\Debug\net6.0\MovieApp.Domain.AssemblyInfoInputs.cache
+C:\Users\lmayi\source\repos\Movie_app\MovieApp.Domain\obj\Debug\net6.0\MovieApp.Domain.AssemblyInfo.cs
+C:\Users\lmayi\source\repos\Movie_app\MovieApp.Domain\obj\Debug\net6.0\MovieApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\lmayi\source\repos\Movie_app\MovieApp.Domain\obj\Debug\net6.0\MovieApp.Domain.sourcelink.json
+C:\Users\lmayi\source\repos\Movie_app\MovieApp.Domain\obj\Debug\net6.0\MovieApp.Domain.dll
+C:\Users\lmayi\source\repos\Movie_app\MovieApp.Domain\obj\Debug\net6.0\refint\MovieApp.Domain.dll
+C:\Users\lmayi\source\repos\Movie_app\MovieApp.Domain\obj\Debug\net6.0\MovieApp.Domain.pdb
+C:\Users\lmayi\source\repos\Movie_app\MovieApp.Domain\obj\Debug\net6.0\ref\MovieApp.Domain.dll

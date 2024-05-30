@@ -95,7 +95,9 @@ namespace Movie_app.Controllers
             {
                 _context.Add(movie);
                 await _context.SaveChangesAsync();
+                TempData["Message"] = "Movie added";
                 return RedirectToAction(nameof(Index));
+                
             }
             return View(movie);
         }
@@ -121,7 +123,7 @@ namespace Movie_app.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Id,Title,ReleaseDate,Genre,Price")] Movie movie)
+        public async Task<IActionResult> Edit(int id, [Bind("Id,Title,ReleaseDate,Genre,Price,Rating")] Movie movie)
         {
             if (id != movie.Id)
             {
@@ -134,6 +136,7 @@ namespace Movie_app.Controllers
                 {
                     _context.Update(movie);
                     await _context.SaveChangesAsync();
+                    TempData["Message"] = "Record updated successfully!";
                 }
                 catch (DbUpdateConcurrencyException)
                 {
@@ -182,6 +185,7 @@ namespace Movie_app.Controllers
             if (movie != null)
             {
                 _context.Movie.Remove(movie);
+                TempData["Message"] = "Record deleted successfully!";
             }
             
             await _context.SaveChangesAsync();

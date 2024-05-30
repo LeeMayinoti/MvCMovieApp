@@ -3,6 +3,14 @@
 @{
     ViewData["Title"] = "Edit";
 }
+@if (TempData["Message"] != null)
+{
+    <div id="successMessage" class="alert alert-success" role="alert">
+        @TempData["Message"]
+    </div>
+}
+
+
 
 <h1>Edit</h1>
 
@@ -25,13 +33,29 @@
             </div>
             <div class="form-group">
                 <label asp-for="Genre" class="control-label"></label>
-                <input asp-for="Genre" class="form-control" />
+                <select asp-for="Genre" class="form-select" id="exampleSelect1">
+                    <option>Action</option>
+                    <option>Comedy</option>
+                    <option>SiFi</option>
+                    <option>Thriller</option>
+                    <option>Horror</option>
+                </select>
                 <span asp-validation-for="Genre" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="Price" class="control-label"></label>
                 <input asp-for="Price" class="form-control" />
                 <span asp-validation-for="Price" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Rating" class="control-label"></label>
+                <select asp-for="Rating" class="form-select">
+                    <option>PG</option>
+                    <option>PG-13</option>
+                    <option>PG-16</option>
+                    <option>R</option>
+                </select>
+                <span asp-validation-for="Rating" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <input type="submit" value="Save" class="btn btn-success" />
@@ -48,3 +72,9 @@
 @section Scripts {
     @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
 }
+
+<script>
+    setTimeout(function () {
+        $('#successMessage').fadeOut('slow');
+    }, 3000); // 3000 milliseconds = 3 seconds
+</script>

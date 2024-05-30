@@ -1,0 +1,90 @@
+﻿@model MovieApp.Application.MovieGenreViewModel
+
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+<!--Alert message when records have -->
+@if (TempData["Message"] != null)
+{
+    <div class="alert alert-success" role="alert">
+        @TempData["Message"]
+    </div>
+}
+
+
+<h1>Catelogue</h1>
+
+<p>  <a asp-action="Create" class="btn btn btn-primary">Create New</a></p>
+
+
+
+
+<form asp-controller="Movies" asp-action="Index" method="get">
+    <p>
+        <select asp-for="MovieGenre" asp-items="Model.Genres">
+            <option>Action</option>
+            <option>Comedy</option>
+            <option>SiFi</option>
+            <option>Horror</option>
+        </select>
+
+        Title: <input type="text" name="SearchString" />
+        <input type="submit" value="Filter" />
+    </p>
+</form>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Movies[0].Title)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Movies[0].ReleaseDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Movies[0].Genre)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Movies[0].Price)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Movies[0].Rating)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+
+        @foreach (var item in Model.Movies)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Title)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ReleaseDate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Genre)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Price)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Rating)
+                </td>
+                <td class="col-sm-2">
+                    <div class="btn-group" role="group" aria-label="Movie Actions">
+                        <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-light ">Edit</a>
+                        <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-info">Details</a>
+                        <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger">Delete</a>
+                    </div>
+
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -14,6 +14,7 @@ namespace Movie_app.Models
 
         [Display(Name = "Release Date")]
         [DataType(DataType.Date)]
+        [Required]
         public DateTime? ReleaseDate { get; set; }
         
 
@@ -29,5 +30,7 @@ namespace Movie_app.Models
         [StringLength(5)]
         [Required]
         public string?  Rating { get; set; }
+
+   
     }
 }

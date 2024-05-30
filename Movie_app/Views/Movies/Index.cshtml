@@ -5,6 +5,16 @@
     ViewData["Title"] = "Index";
 }
 
+
+<!--Alert message when records have -->
+@if (TempData["Message"] != null)
+{
+    <div class="alert alert-success" role="alert">
+        @TempData["Message"]
+    </div>
+}
+
+
 <h1>Catelogue</h1>
 
 <p>  <a asp-action="Create" class="btn btn btn-primary">Create New</a></p>
@@ -63,12 +73,16 @@
                 <td>
                     @Html.DisplayFor(modelItem => item.Rating)
                 </td>
-            <td>
-                    <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-light">Edit</a> 
-                <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-success">Details</a> 
-                <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger">Delete</a>
+                <td class="col-sm-2">
+                    <div class="btn-group" role="group" aria-label="Movie Actions">
+                        <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-light ">Edit</a>
+                        <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-info">Details</a>
+                        <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger">Delete</a>
+                    </div>
+                 
             </td>
         </tr>
 }
     </tbody>
 </table>
+

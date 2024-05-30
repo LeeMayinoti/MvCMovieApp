@@ -4,6 +4,19 @@
     ViewData["Title"] = "Delete";
 }
 
+@if (TempData["Message"] != null)
+{
+    <div id="successMessage" class="alert alert-success" role="alert">
+        @TempData["Message"]
+    </div>
+}
+
+<script>
+    setTimeout(function () {
+        $('#successMessage').fadeOut('slow');
+    }, 3000); // 3000 milliseconds = 3 seconds
+</script>
+
 <h1>Delete</h1>
 
 <h3>Are you sure you want to delete this?</h3>
